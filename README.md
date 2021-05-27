@@ -11,7 +11,7 @@ MAC(Media Access Control) address is the physical address, which uniquely identi
 To make communication between two networked devices, we need two addresses: IP address and MAC address. It is assigned to the 
 NIC (Network Interface card) of each device that can be connected to the internet.
 
-why do we need it?
+WHY DO WE NEED IT?
 
 Some Routers and Firewalls uses a list called access control list which have list of blacklisted mac addresses added by network 
 administrators so whenever those blacklisted mac addresses tries to access the network the router or firewall will block those 
