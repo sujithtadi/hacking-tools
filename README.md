@@ -19,3 +19,11 @@ devices from accessing
 This program will change your mac address thereby evading firewall or routers access control lists and also bringing
 anonymity to you when you are in a network
 
+USAGE
+
+    python3 macchanger.py [options]
+    options:
+    -h ,--help            help to list the options
+    -i ,--interface       set the interface
+    -m ,--mac             set the new mac address
+
