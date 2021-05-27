@@ -6,6 +6,7 @@ Use it for educational purpose and to learn
 Hacking Tools List
 
 1.MAC ADDRESS SPOOFER
+
       MAC(Media Access Control) address is the physical address, which uniquely identifies each device on a given network. 
       To make communication between two networked devices, we need two addresses: IP address and MAC address. It is assigned to the 
  NIC (Network Interface card) of each device that can be connected to the internet.
